@@ -1,3 +1,5 @@
+#Author: AMARACHI IWUH
+
 from draw_hangman import draw_hangman 
 def game_processor(word):
     spaces = "-" * len(word)

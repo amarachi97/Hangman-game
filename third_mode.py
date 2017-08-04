@@ -1,3 +1,5 @@
+#Author: AMARACHI IWUH
+
 from random import randint
 from game_processor import game_processor
 def third_mode():

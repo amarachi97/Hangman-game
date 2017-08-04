@@ -1,3 +1,5 @@
+#Author: AMARACHI IWUH
+
 print("******THE HANGMAN!!!!********")
 print("Instructions:")
 print("1. For the default mode, a hardcoded word will be used to generate the empty spaces.")

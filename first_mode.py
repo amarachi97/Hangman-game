@@ -1,3 +1,5 @@
+#Author: AMARACHI IWUH
+
 from game_processor import game_processor
 def first_mode():
     word = "python"

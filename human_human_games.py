@@ -1,3 +1,4 @@
+#Author: AMARACHI IWUH
 from game_processor import game_processor
 def human_human_games():
     word = input("provide a word for your opponent: ")
